@@ -1,1 +1,4 @@
-title: null
+title: ""
+show_downloads: false
+include:
+  - assets/css
